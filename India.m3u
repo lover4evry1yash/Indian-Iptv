@@ -1,107 +1,38 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="India News",NDTV India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BR4BUAw.png" group-title="India News",News18 India
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3M8MoK.png" group-title="India News",CNN-News18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQUGLoK.png" group-title="India News",News18 Kannada
-https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nKwoe8n.png" group-title="India News",News18 UP Uttarakhand
-https://www.youtube.com/@News18UPUttarakhand/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NsieorM.jpeg" group-title="India News",News18 Telugu
-https://www.youtube.com/@News18Telugu/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/orxCvCa.png" group-title="India News",News18 Marathi
-https://www.youtube.com/@News18Marathi/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="India News",NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znnVCEf.png" group-title="India News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" group-title="India News",NDTV Profit
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKHUFVQ.png" group-title="India News",ABP News
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKHUFVQ.png" group-title="India News",ABP News alt
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" group-title="India News",ABP Ananda
-https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="India News",Aaj Tak
-https://www.youtube.com/watch?v=Nq2wYlWFucg
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/India_tv_logo-en.png/500px-India_tv_logo-en.png" group-title="India News",India TV
-https://www.youtube.com/watch?v=e1FIApIafWE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C7KK3Fd.png" group-title="India News",India Today
-https://www.youtube.com/watch?v=sYZtOFzM78M
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/TV9_Bharatvarsh.svg/500px-TV9_Bharatvarsh.svg.png" group-title="India News",TV9 Bharatvarsh
-https://www.youtube.com/watch?v=nSpwwcHVp80
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9rBgkxG.png" group-title="India News",TV9 Kannada
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHAdC30.png" group-title="India News",TV9 Telugu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7urrIv.jpeg" group-title="India News",TV9 Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E8MCz6e.png" group-title="India News",WION
-https://www.youtube.com/@WION/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R4rxBNu.jpeg" group-title="India News",Mirror Now
-https://www.youtube.com/@mirrornow/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lmgtjqw.jpeg" group-title="India News",Zee News
-https://www.youtube.com/@ZEENews/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N5BbEek.jpeg" group-title="India News",News24
-https://www.youtube.com/@News24thinkfirst/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vbSR4cA.png" group-title="India News",Good News Today
-https://www.youtube.com/@GoodNewsTodayOfficial/live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/500px-Republic_Bharat_logo.svg.png" group-title="India News",Republic Bharat
-https://www.youtube.com/@RepublicBharat/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ofntbBS.png" group-title="India News",Asianet News
-https://www.youtube.com/@asianetnews/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zRWl97N.jpeg" group-title="India News",Asianet Suvarna News
-https://www.youtube.com/@AsianetSuvarnaNews/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wJvDMn.jpeg" group-title="India News",Asianet News Telugu
-https://www.youtube.com/@AsianetNewsTelugu/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/znnVCEf.png" group-title="India News",DD News
-https://www.youtube.com/c/ddnews/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="India News",DD National
-https://www.youtube.com/doordarshan/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/45uptR8.png" group-title="India News",DD India
-https://www.youtube.com/DDIndia/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="India News",DD Bharati
-https://www.youtube.com/@ddbharati/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x56WJEa.png" group-title="India News",DD Kisan
-https://www.youtube.com/@DDKisan/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OiQPS34.png" group-title="India News",DD Urdu
-https://www.youtube.com/@DDUrdu/live
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DKHUFVQ.png" group-title="India News",ABP News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/500px-ABP_Ananda_logo.svg.png" group-title="India News",ABP Ananda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/NDTV_Profit.svg/1280px-NDTV_Profit.svg.png" group-title="India News",NDTV Profit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
 #EXTINF:-1 group-title="India Premium",Star Plus HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Star World
-https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Star Bharat
-https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Zee TV
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 group-title="India Premium",Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Colors UAE
-https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="India Premium",Movies Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 group-title="India Premium",HBO
-https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",MGM
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 group-title="India Premium",Sport Max
-https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 group-title="India Premium",Fox Sports
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Discovery Asia
-https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",History 2
-https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Cartoon Network
-https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
-#EXTINF:-1 group-title="India Premium",Food Food
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 group-title="India Premium",Sony KAL Hindi
-https://90f1f5904d4043d78fa97be33e8304b4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_SonyKAL/playlist.m3u8
