@@ -1,0 +1,280 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+
+#EXTINF:-1 group-title="India Entertainment",Star Plus HD
+http://51.15.8.16:8081/ind1live/starplususa/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus
+http://51.15.8.16:8081/ind1live/starplus/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus UK
+http://51.15.8.16:8081/ind1live/starplusuk/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus alt
+http://103.205.133.19/hls/starplus.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus alt2
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Plus APAC
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Bharat HD
+http://51.15.8.16:8081/ind1live/starbharat/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star Bharat alt
+http://103.205.133.19/hls/starbharat.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:-1 group-title="India Entertainment",Star World HD
+http://51.15.8.16:8081/ind1live/starworld/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony TV
+http://51.15.8.16:8081/ind1live/sonytv/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony TV HD
+http://208.115.215.42:80/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony TV UK
+http://51.15.8.16:8081/lolind2/sonytvuk/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony SAB HD
+http://51.15.8.16:8081/lolind2/sonysabhd/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Sony Pal
+http://51.15.8.16:8081/lolind2/sonypal/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee TV
+http://51.15.8.16:8081/ind1live/zeetv/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee TV UK
+http://51.15.8.16:8081/ind1live/zeetvuk/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee TV UAE
+http://51.15.8.16:8081/ind1live/zeetvme/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Zee TV APAC
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:-1 group-title="India Entertainment",Colors HD
+https://triangle.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:-1 group-title="India Entertainment",Colors UK
+http://51.15.8.16:8081/lolind2/colorstvuk/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",Colors APAC
+http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 group-title="India Entertainment",Colors UAE
+https://1784075063.rsc.cdn77.org/1784075063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Entertainment",&TV HD
+http://45.120.188.76:8080/0.ts
+#EXTINF:-1 group-title="India Entertainment",AXN HD
+http://51.15.8.16:8081/lolind2/sonytvhd/playlist.m3u8
+#EXTINF:-1 group-title="India Entertainment",AXN Asia
+http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+#EXTINF:-1 group-title="India Entertainment",Capital TV UK
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF:-1 group-title="India Entertainment",Trinity TV
+http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
+
+#EXTINF:-1 group-title="India Movies",Star Gold
+http://51.15.8.16:8081/ind1live/stargold/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Star Gold UK
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 group-title="India Movies",Star Gold UK alt
+http://51.15.8.16:8081/ind1live/stargolduk/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Star Movies
+http://51.15.8.16:8081/ind1live/starmovies/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Zee Cinema
+http://51.15.8.16:8081/ind1live/zeecinema/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Zee Cinema UK
+http://51.15.8.16:8081/ind1live/zeecinemauk/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Zee Cinema UAE
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 group-title="India Movies",Zee Classic
+http://51.15.8.16:8081/ind1live/zeeclassic/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Sony Max
+http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Movies",Sony Max 2 UK
+http://51.15.8.16:8081/lolind2/sonymax2/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Colors Cineplex UK
+http://51.15.8.16:8081/lolind2/rishteycineplexuk/chunks.m3u8
+#EXTINF:-1 group-title="India Movies",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 group-title="India Movies",B4U Kadak
+http://103.68.116.50/live/feed1013/index.m3u8
+#EXTINF:-1 group-title="India Movies",B4U Aflam
+http://samrapro.com:7766/live/ramis/123456/3126.m3u8
+#EXTINF:-1 group-title="India Movies",Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+#EXTINF:-1 group-title="India Movies",MBC Bollywood
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 group-title="India Movies",Gem Bollywood
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",Fox Premium
+http://160.119.77.50/iptv/hd-foxpremium.stream/playlist.m3u8
+#EXTINF:-1 group-title="India Movies",HBO
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Movies",HBO Asia
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+#EXTINF:-1 group-title="India Movies",MGM
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 group-title="India Movies",HITS
+http://210.210.155.66/h/h37/index.m3u8
+
+#EXTINF:-1 group-title="India Sports",Star Sports 1 Hindi
+http://51.15.8.16:8081/ind1live/starsports1hindi/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Star Sports 2
+http://51.15.8.16:8081/ind1live/starsports2/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Star Sports 2 alt
+http://103.68.116.50/live/feed1006/index.m3u8
+#EXTINF:-1 group-title="India Sports",Star Sports Select 1
+http://51.15.8.16:8081/ind1live/starsportsselect1/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Star Sports Select 2 HD
+http://51.15.8.16:8081/ind1live/starsportsselect2/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Sony Ten 1 HD
+http://51.15.8.16:8081/lolind2/sonyten1hd/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Sony Ten 2 HD
+http://51.15.8.16:8081/lolind2/sonyten2hd/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Sony Ten 3
+http://51.15.8.16:8081/lolind2/sonyten3/playlist.m3u8
+#EXTINF:-1 group-title="India Sports",Sony Six
+http://103.68.116.50/live/feed1004/index.m3u8
+#EXTINF:-1 group-title="India Sports",D Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="India Sports",Sport Max UAE
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 group-title="India Sports",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Sports",Fox Sports
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Sports",True Sports
+https://tv4.chang55.com/live2/tv4ch18.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Sports",CCA
+https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="India Music",Sony Mix
+http://51.15.8.16:8081/lolind2/sonymix/playlist.m3u8
+#EXTINF:-1 group-title="India Music",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 group-title="India Music",Masti
+http://103.68.116.50/live/feed1014/index.m3u8
+#EXTINF:-1 group-title="India Music",9XO
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 group-title="India Music",Zoom
+http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+#EXTINF:-1 group-title="India Music",VH1
+http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 group-title="India Music",MTV USA
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 group-title="India Kids",Cartoon Network HD
+https://tv4.chang55.com/live2/tv4ch20.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Kids",Cartoon Network Asia
+http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+#EXTINF:-1 group-title="India Kids",Boomerang UAE
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1 group-title="India Kids",Boomerang US
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="India Kids",Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="India Kids",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:-1 group-title="India Infotainment",Discovery India
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:-1 group-title="India Infotainment",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 group-title="India Infotainment",Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:-1 group-title="India Infotainment",Discovery Asia
+https://tv4.chang55.com/live2/tv4ch16.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Infotainment",History
+http://193.169.124.19:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="India Infotainment",History 2
+https://tv4.chang55.com/live2/tv4ch19.stream/chunks.m3u8
+#EXTINF:-1 group-title="India Infotainment",Nat Geo
+https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
+#EXTINF:-1 group-title="India Infotainment",Nat Geo People
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+#EXTINF:-1 group-title="India Infotainment",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:-1 group-title="India Infotainment",Animal Planet
+http://84.22.33.254/unicast.animalplanet/index.m3u8
+#EXTINF:-1 group-title="India Infotainment",ID
+http://84.22.33.254/unicast.id/index.m3u8
+#EXTINF:-1 group-title="India Infotainment",Fox Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:-1 group-title="India Infotainment",Food Food
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="India Infotainment",Insight
+http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+#EXTINF:-1 group-title="India Infotainment",Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+
+#EXTINF:-1 group-title="India News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 group-title="India News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 group-title="India News",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
+#EXTINF:-1 group-title="India News",ABP News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 group-title="India News",ABP News alt
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 group-title="India News",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1 group-title="India News",Aaj Tak
+http://31.14.40.58:8080/AAJTAK_h264/index.m3u8
+#EXTINF:-1 group-title="India News",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1 group-title="India News",Zee News
+http://51.15.8.16:8081/ind1live/zeenews/playlist.m3u8
+#EXTINF:-1 group-title="India News",Zee Business
+http://samrapro.com:7766/live/ramis/123456/82714.m3u8
+#EXTINF:-1 group-title="India News",News18 India
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="India News",CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="India News",News18 Kannada
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="India News",News18 Assam
+https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 group-title="India News",TV9 Kannada
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India News",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India News",TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="India News",North East Live
+https://cdn.pride-east.in/smartstream-us/mbrstreammbr/mbrstreammbr.smil/chunks.m3u8
+#EXTINF:-1 group-title="India News",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 group-title="India News",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 group-title="India News",NDTV India alt
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+
+#EXTINF:-1 group-title="India DD",DD National
+https://www.youtube.com/doordarshan/live
+#EXTINF:-1 group-title="India DD",DD News YouTube
+https://www.youtube.com/c/ddnews/live
+#EXTINF:-1 group-title="India DD",DD India
+https://www.youtube.com/DDIndia/live
+#EXTINF:-1 group-title="India DD",DD Bharati
+https://www.youtube.com/@ddbharati/live
+#EXTINF:-1 group-title="India DD",DD Kisan
+https://www.youtube.com/@DDKisan/live
+#EXTINF:-1 group-title="India DD",DD Urdu
+https://www.youtube.com/@DDUrdu/live
+
+#EXTINF:-1 group-title="India YouTube News",India Today
+https://www.youtube.com/watch?v=sYZtOFzM78M
+#EXTINF:-1 group-title="India YouTube News",Aaj Tak YouTube
+https://www.youtube.com/watch?v=Nq2wYlWFucg
+#EXTINF:-1 group-title="India YouTube News",India TV YouTube
+https://www.youtube.com/watch?v=e1FIApIafWE
+#EXTINF:-1 group-title="India YouTube News",TV9 Bharatvarsh
+https://www.youtube.com/watch?v=nSpwwcHVp80
+#EXTINF:-1 group-title="India YouTube News",Republic Bharat
+https://www.youtube.com/@RepublicBharat/live
+#EXTINF:-1 group-title="India YouTube News",Asianet News
+https://www.youtube.com/@asianetnews/live
+#EXTINF:-1 group-title="India YouTube News",Asianet Suvarna News
+https://www.youtube.com/@AsianetSuvarnaNews/live
+#EXTINF:-1 group-title="India YouTube News",Asianet News Telugu
+https://www.youtube.com/@AsianetNewsTelugu/live
+#EXTINF:-1 group-title="India YouTube News",News18 UP Uttarakhand
+https://www.youtube.com/@News18UPUttarakhand/live
+#EXTINF:-1 group-title="India YouTube News",News18 Telugu
+https://www.youtube.com/@News18Telugu/live
+#EXTINF:-1 group-title="India YouTube News",News18 Marathi
+https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1 group-title="India YouTube News",Mirror Now
+https://www.youtube.com/@mirrornow/live
+#EXTINF:-1 group-title="India YouTube News",Zee News YouTube
+https://www.youtube.com/@ZEENews/live
+#EXTINF:-1 group-title="India YouTube News",News24
+https://www.youtube.com/@News24thinkfirst/live
+#EXTINF:-1 group-title="India YouTube News",Good News Today
+https://www.youtube.com/@GoodNewsTodayOfficial/live
